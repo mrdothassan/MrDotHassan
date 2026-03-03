@@ -24,6 +24,9 @@
 <p><a href="https://discord.gg/hGnMhChmmB">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40">
 </a>
+  <a href="https://discord.gg/hGnMhChmmB">
+  <img src="https://assets-global.website-files.com/6257adef93867e3722953267/6257b24345479603091e0a9b_3612809.png" alt="My Discord Server" width="100" height="100">
+</a>
   <br><a target="_blank" href="https://x.com/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://dev.to/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
