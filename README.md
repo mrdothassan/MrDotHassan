@@ -32,5 +32,3 @@
 <a target="_blank" href="https://stackoverflow.com/users/14824767/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrDotHassan&show_icons=true&locale=en" alt="MrDotHassan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDotHassan&" alt="MrDotHassan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrDotHassan&show_icons=true&locale=en&layout=compact" alt="MrDotHassan" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrDotHassan" alt="MrDotHassan" /></a></p>
