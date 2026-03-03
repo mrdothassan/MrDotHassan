@@ -30,4 +30,3 @@
 <a target="_blank" href="https://www.behance.net/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
 <a target="_blank" href="https://medium.com/@mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/14824767/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDotHassan&" alt="MrDotHassan" /></p>
