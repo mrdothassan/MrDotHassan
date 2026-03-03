@@ -22,9 +22,9 @@
 
 <h2>⚡️ Where to find me</h2>
 <p><a href="https://discord.gg/hGnMhChmmB">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40">
+  <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
-  <a href="https://discord.gg/hGnMhChmmB">
+  <a href="https://discord.gg/9VUA845EQX">
   <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
   <br><a target="_blank" href="https://x.com/mrdothassan" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
