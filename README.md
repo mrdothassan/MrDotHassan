@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Hassan👨‍💻</h1>
-<p1>A Passionate Fullstack Developer  | Known as MrDotHassan🔐</p1>
+<p align="center">
+  <b>Passionate Full-Stack Developer with over a decade of hands-on experience (since 2012). I specialize in building robust, scalable solutions ranging from complex offline desktop software to modern cloud-driven web applications. Proficient across the full development lifecycle—from UI/UX prototyping to backend architecture and cloud deployment.</b>
+</p>
 <h2>🌐 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
