@@ -27,4 +27,14 @@
   <a href="https://discord.gg/9VUA845EQX">
   <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
- 
+
+ <div align="center">
+  <h2>My Discord ID is MrDotHassan</h2>
+  <img src="https://img.shields.io/badge/Discord-MR%20DOT%20HASSAN-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</div>
+
+<hr>
+
+<p align="center">
+I'm working on various projects, including offline and online inventory management systems, and a range of websites. To get in touch, please message me on Discord.
+</p>
