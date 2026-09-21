@@ -22,15 +22,24 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="60" /> <h2>My Discord ID is MrDotHassan</h2>
-  <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <h2>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="38" style="vertical-align: middle; margin-right: 8px;" />
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; vertical-align: middle;">
+      My Discord ID is MrDotHassan
+    </span>
+  </h2>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </p>
 </div>
 
-<hr>
+<hr />
 
 <p align="center">
 I'm working on various projects, including offline and online inventory management systems, and a range of websites. To get in touch, please message me on Discord.
 </p>
+
 
 
 <h2>⚡️ Where to find me</h2>
