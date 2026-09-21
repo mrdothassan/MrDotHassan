@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <h2>My Discord ID is MrDotHassan</h2>
-  <img src="https://img.shields.io/badge/Discord-MR%20DOT%20HASSAN-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> <h2>My Discord ID is MrDotHassan</h2>
+  <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
 
 <hr>
