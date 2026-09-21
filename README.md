@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Hassan👨‍💻</h1>
+<p align="center"> <h1>Hi 👋, I'm Hassan👨‍💻</h1> </p>
 <p align="center">
   <b>Passionate Full-Stack Developer with over a decade of hands-on experience (since 2012). I specialize in building robust, scalable solutions ranging from complex offline desktop software to modern cloud-driven web applications. Proficient across the full development lifecycle—from UI/UX prototyping to backend architecture and cloud deployment.</b>
 </p>
