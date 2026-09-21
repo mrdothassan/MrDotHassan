@@ -37,7 +37,7 @@
 <hr />
 
 <p align="center">
-I'm working on various projects, including offline and online inventory management systems, and a range of websites. To get in touch, please message me on Discord.
+  <b>I'm working on various projects, including offline and online inventory management systems, and a range of websites. To get in touch, please message me on Discord.</b>
 </p>
 
 
