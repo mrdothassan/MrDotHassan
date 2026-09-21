@@ -30,7 +30,7 @@
   </h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28" />
   </p>
 </div>
 
