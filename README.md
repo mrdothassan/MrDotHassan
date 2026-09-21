@@ -22,7 +22,7 @@
 
 
 <div align="center">
-<img src="https://assets-global.website-files.com/6257adef93867e58984d30e2/636e0a6918e517532e92de73_icon_clyde_white_RGB.png" alt="Discord" width="50"> <h2>My Discord ID is MrDotHassan</h2>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="60" /> <h2>My Discord ID is MrDotHassan</h2>
   <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
 
