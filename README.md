@@ -45,10 +45,10 @@
 
 
 <h2 align="center">⚡️ Where to find me</h2>
-<p><a href="https://discord.gg/hGnMhChmmB">
-  <img align="center"> src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
+<p><a align="center"> href="https://discord.gg/hGnMhChmmB">
+  <img  src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
-  <a href="https://discord.gg/9VUA845EQX">
-  <img align="center"> src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
+  <a align="center"> href="https://discord.gg/9VUA845EQX">
+  <img  src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
 
