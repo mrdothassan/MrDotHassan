@@ -22,12 +22,12 @@
 
 
 <div align="center">
-  <h2>
+  <h1>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Discord" width="38" style="vertical-align: middle; margin-right: 8px;" />
     <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; vertical-align: middle;">
       My Discord ID is MrDotHassan
     </span>
-  </h2>
+  </h1>
   
   <p>
     <img src="https://img.shields.io/badge/Discord-MrDotHassan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
