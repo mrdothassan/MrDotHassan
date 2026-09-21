@@ -48,6 +48,7 @@
 <p align="center"><a href="https://discord.gg/hGnMhChmmB">
   <img  src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/9VUA845EQX">
   <img  src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
 </a>
