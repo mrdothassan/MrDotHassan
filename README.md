@@ -20,15 +20,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a></p>
 
-<h2>⚡️ Where to find me</h2>
-<p><a href="https://discord.gg/hGnMhChmmB">
-  <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
-</a>
-  <a href="https://discord.gg/9VUA845EQX">
-  <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
-</a>
 
- <div align="center">
+<div align="center">
   <h2>My Discord ID is MrDotHassan</h2>
   <img src="https://img.shields.io/badge/Discord-MR%20DOT%20HASSAN-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
@@ -38,3 +31,13 @@
 <p align="center">
 I'm working on various projects, including offline and online inventory management systems, and a range of websites. To get in touch, please message me on Discord.
 </p>
+
+
+<h2>⚡️ Where to find me</h2>
+<p><a href="https://discord.gg/hGnMhChmmB">
+  <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
+</a>
+  <a href="https://discord.gg/9VUA845EQX">
+  <img src="https://web.archive.org/web/20210202150337if_/https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="My Discord Server" width="100" height="100">
+</a>
+
